@@ -10,6 +10,8 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
+  background-color: #fff;
+  color: #000;
 
   font-family: "PT Sans", sans-serif;
 }
@@ -29,7 +31,11 @@ header ul {
 header a {
   text-decoration: none;
   font-family: "Roboto Condensed", sans-serif;
-  color: #6aa8e0
+  color: #6aa8e0;
+}
+
+header a:hover {
+  color: #4b7aa5;
 }
 
 .about-us {
@@ -79,6 +85,11 @@ figcaption {
   margin: auto;
 }
 
+.cards a:hover {
+  background-color: #5b8946;
+  border-color: #5b8946;
+}
+
 .cards li {
   display: inline-block;
   background-color: #fff;
@@ -101,6 +112,11 @@ figcaption {
 .btn {
   background-color: #7ab35f;
   border-color: #7ab35f;
+}
+
+.btn:hover {
+  background-color: #5b8946;
+  border-color: #5b8946;
 }
 
 footer {
