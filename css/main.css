@@ -74,6 +74,7 @@ figcaption {
   border-radius: 4px;
   color: #fff;
   text-decoration: none;
+  margin: auto;
 }
 
 .cards li {
@@ -84,7 +85,20 @@ figcaption {
   padding: 1em;
   border: 3px solid #e2e2e2;
   border-radius: 10px;
-  text-align: left;
+  text-align: center;
+}
+
+.news {
+  background-color: #e3ebf1;
+}
+
+.news h2 {
+  text-align: center;
+}
+
+.btn {
+  background-color: #7ab35f;
+  border-color: #7ab35f;
 }
 
 @media only screen and (min-width: 50em) {
