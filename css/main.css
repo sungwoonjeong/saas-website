@@ -5,9 +5,13 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
   box-sizing: border-box;
 
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -15,7 +19,7 @@ html {
 }
 
 h2 {
-  font-family: 'Fredoka One', cursive;
+  font-family: "Fredoka One", cursive;
 }
 
 header ul {
@@ -27,7 +31,15 @@ header a {
 }
 
 .about-us {
-  background-color: #EC6568;
+  background-color: #ec6568;
+}
+
+.feature {
+  background-color: #e3ebf1;
+}
+
+.feature h2 {
+  text-align: center;
 }
 
 figcaption {
