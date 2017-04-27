@@ -20,6 +20,11 @@ header a {
   text-decoration: none;
 }
 
+figcaption {
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
+}
+
 @media only screen and (min-width: 50em) {
 
   header ul {
