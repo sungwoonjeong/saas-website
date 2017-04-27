@@ -101,6 +101,20 @@ figcaption {
   border-color: #7ab35f;
 }
 
+footer {
+  background-color: #649ed3;
+  color: #fff;
+}
+
+footer ul {
+  text-align: right;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
 @media only screen and (min-width: 50em) {
 
   header ul {
