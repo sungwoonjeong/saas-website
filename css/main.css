@@ -24,6 +24,10 @@ header a {
   text-decoration: none;
 }
 
+.about-us {
+  background-color: #EC6568;
+}
+
 figcaption {
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
