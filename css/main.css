@@ -25,6 +25,37 @@ figcaption {
   color: #fff;
 }
 
+.cards {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.cards img {
+  display: block;
+  margin: 0 auto 1rem;
+}
+
+.cards a {
+  display: inline-block;
+  padding: .5em .75em;
+  background-color: #522720;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.cards li {
+  display: inline-block;
+  margin: 0 .5em 1em;
+  max-width: 20em;
+  padding: 1em;
+  border: 3px solid #e2e2e2;
+  border-radius: 10px;
+  text-align: left;
+}
+
 @media only screen and (min-width: 50em) {
 
   header ul {
