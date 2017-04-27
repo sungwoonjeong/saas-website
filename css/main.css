@@ -12,6 +12,10 @@ html {
   box-sizing: inherit;
 }
 
+h2 {
+  font-family: 'Fredoka One', cursive;
+}
+
 header ul {
   text-align: center;
 }
