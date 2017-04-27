@@ -47,6 +47,14 @@ figcaption {
   color: #fff;
 }
 
+.simple-pricing {
+  background-color: #fcb669;
+}
+
+.simple-pricing h2 {
+  text-align: center;
+}
+
 .cards {
   margin: 0;
   padding: 0;
@@ -62,7 +70,7 @@ figcaption {
 .cards a {
   display: inline-block;
   padding: .5em .75em;
-  background-color: #522720;
+  background-color: #7ab35f;
   border-radius: 4px;
   color: #fff;
   text-decoration: none;
@@ -70,6 +78,7 @@ figcaption {
 
 .cards li {
   display: inline-block;
+  background-color: #fff;
   margin: 0 .5em 1em;
   max-width: 20em;
   padding: 1em;
