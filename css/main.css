@@ -42,6 +42,10 @@ header a:hover {
   background-color: #ec6568;
 }
 
+.about-us img {
+  max-width: 20em;
+}
+
 .feature {
   background-color: #e3ebf1;
 }
@@ -107,6 +111,10 @@ figcaption {
 
 .news h2 {
   text-align: center;
+}
+
+.news img {
+  max-width: 20em;
 }
 
 .btn {
