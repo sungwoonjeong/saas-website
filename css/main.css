@@ -39,8 +39,12 @@ header a:hover {
 }
 
 .banner-content {
-  font-family: "Ranga", cursive;
-  color: pink;
+  font-family: "Kaushan Script", cursive;
+  color: #ffdee5;
+}
+
+.banner-content a {
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .about-us {
