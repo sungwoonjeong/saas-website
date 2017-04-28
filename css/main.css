@@ -38,6 +38,11 @@ header a:hover {
   color: #4b7aa5;
 }
 
+.banner-content {
+  font-family: "Ranga", cursive;
+  color: pink;
+}
+
 .about-us {
   background-color: #ec6568;
 }
