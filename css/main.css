@@ -119,6 +119,50 @@ figcaption {
   border-color: #5b8946;
 }
 
+.product {
+  background-color: #ec6568;
+}
+
+.product h2 {
+  text-align: center;
+}
+
+.target {
+  background-color: #e3ebf1;
+}
+
+.target h2 {
+  text-align: center;
+}
+
+.works {
+  background-color: #fcb669;
+}
+
+.works h2 {
+  text-align: center;
+}
+
+.works figcaption {
+  text-align: center;
+}
+
+.review {
+  background-color: #e3ebf1;
+}
+
+.review h2 {
+  text-align: center;
+}
+
+.review caption {
+  text-align: center;
+}
+
+.review tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
+
 footer {
   background-color: #649ed3;
   color: #fff;
