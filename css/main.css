@@ -192,6 +192,10 @@ figcaption {
   max-width: 25em;
 }
 
+.sign-up {
+  background-color: #e3ebf1;
+}
+
 footer {
   background-color: #649ed3;
   color: #fff;
